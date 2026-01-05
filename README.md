@@ -5,11 +5,11 @@
 **Developer since:** Jan 2017  
 **Background:** Computer Engineer, Software Engineer, Computer Scientist, Mathematician
 
-## ⚠️ Security
+## ⚠️ Warning
 
-Never blindly trust remote scripts from others.
+Never blindly trust remote scripts from others. `Git Pipeline` is for personal and development use only — not recommended for team environments or production.
 
-## Git Pipeline Auto
+## Git Pipeline
 
 A simple way to standardize your commits across all projects.
 
@@ -28,7 +28,3 @@ Then run:
 ```sh
 sh ./git-pipeline.sh
 ```
-
-## ⚠️ Note
-
-This is intended for personal/development use only, not for team environments or production.
