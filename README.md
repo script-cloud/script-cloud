@@ -20,6 +20,8 @@ A simple way to standardize your commits across all projects.
 Example:
 ```sh
 #!/bin/bash
+
+# curl -sL https://raw.githubusercontent.com/script-cloud/script-cloud/main/scripts/git/git-pipeline.sh | bash
 curl -sL https://raw.githubusercontent.com/YOUR_USER/YOUR_REPO/BRANCH/git/git-pipeline-auto.sh | bash
 ```
 
