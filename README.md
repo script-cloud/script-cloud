@@ -13,7 +13,7 @@ Never blindly trust remote scripts from others. `Git Pipeline` is for personal a
 
 A simple way to standardize your commits across all projects.
 
-1. Create your own repo with the script content
+1. Create your own repo with the script content.
 2. In each local project, create a file named `git-pipeline.sh` with the following content:
 ```sh
 #!/bin/bash
@@ -22,7 +22,7 @@ A simple way to standardize your commits across all projects.
 curl -sL https://raw.githubusercontent.com/<user|org>/<repo>/<branch>/git/git-pipeline.sh | bash
 ```
 
-3. If you update the source, all projects get the same commit pattern automatically — no manual changes needed
+3. If you update the source, all projects get the same commit pattern automatically — no manual changes needed.
 
 Then run:
 ```sh
