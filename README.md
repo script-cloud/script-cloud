@@ -1,8 +1,11 @@
 # script-cloud
 
-> by Guilherme Silva
+**Author:** Guilherme Silva 🇧🇷  
+**Email:** <239806034+dataonegs@users.noreply.github.com>  
+**Developer since:** Jan 2017  
+**Background:** Computer Engineer, Software Engineer, Computer Scientist, Mathematician
 
-## 💡 Tip
+## Tip
 
 Use the [Markdown Command Runner](https://marketplace.visualstudio.com/items?itemName=Sycl.markdown-command-runner) extension in VS Code to run commands directly from this README.
 
