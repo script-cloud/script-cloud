@@ -8,4 +8,4 @@ git push
 
 clear
 
-git log -3
+git log -1
