@@ -7,7 +7,7 @@
 
 ## ⚠️ Security
 
-Never blindly trust remote scripts. Clone the repo and copy the code directly into your local file instead of using `curl | bash`.
+Never blindly trust remote scripts from others.
 
 ## Git Pipeline Auto
 
