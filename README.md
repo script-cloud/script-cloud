@@ -1,7 +1,7 @@
 # script-cloud
 
 **Author:** Guilherme Silva 🇧🇷  
-**Email:** <239806034+dataonegs@users.noreply.github.com>  
+**Email:** <ggs.arquivo.2030@gmail.com>  
 **Developer since:** Jan 2017  
 **Background:** Computer Engineer, Software Engineer, Computer Scientist, Mathematician
 
