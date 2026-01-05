@@ -28,3 +28,7 @@ Then run:
 ```sh
 sh ./git-pipeline.sh
 ```
+
+## ⚠️ Note
+
+This is intended for personal/development use only, not for team environments or production.
